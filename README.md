@@ -3,6 +3,6 @@
 용량문제로 인해 GitLab에 마이그레이션 해놓은 상태입니다.
 
 ### GitLab Link 
-(https://github.com/user-attachments/assets/21533d9d-ce8c-479d-8d80-02e79d3f62cf)
+([https://github.com/user-attachments/assets/21533d9d-ce8c-479d-8d80-02e79d3f62cf](https://gitlab.com/dovewith999/Tower_of_Fantasy))
 
 
